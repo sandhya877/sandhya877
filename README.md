@@ -1,8 +1,9 @@
 <div align="center">
 <h1> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Snadhya </h1>
 </div>
-
-<h2>I'm an aspiring data scientist who wishes to solve problems in the world by means of data</h2>
+<div align="center">
+<h3>I'm an aspiring data scientist who wishes to solve problems in the world by means of data</h3>
+</div>
 <br>
 <div align="center">
 <a href="https://naveensuyra.netlify.app/"> 
