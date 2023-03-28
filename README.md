@@ -1,12 +1,9 @@
+<div align="center">
+<h1> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Snadhya </h1>
+</div>
 
-![gh-banner](https://raw.githubusercontent.com/sandhya877/sandhya877/main/github%20banner.jpg)
-
-
-
-## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-
-I'm Naveen Kumar Ballanki from India, and I'm Frontend developer looking to leverage my passion for building engaging products and user experiences. Skilled in JavaScript,Tailwind CSS, Git, HTML & CSS. With excellent communication skills and always ready to learn new skill sets, I am also a great team player and a self-starter that likes to engage in a logical thinking approach to problem-solving.
- 
+<h2>I'm an aspiring data scientist who wishes to solve problems in the world by means of data</h2>
+<br>
 <div align="center">
 <a href="https://naveensuyra.netlify.app/"> 
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=CodersRank&logoColor=white" alt="portfolio" />
@@ -47,18 +44,18 @@ I'm Naveen Kumar Ballanki from India, and I'm Frontend developer looking to leve
 
 ### Activity Graph 📈
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=iamnaveensurya&theme=minimal"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=sandhya877&theme=minimal"/>
 </p>
 
 ### Github Profile Summary Card 💳
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamnaveensurya&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandhya877&theme=vue"/>
 </p>
 
 ### GitHub Stats 📟
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamnaveensurya&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnaveensurya&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sandhya877&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandhya877&theme=vue" />
 </p>
 
 
